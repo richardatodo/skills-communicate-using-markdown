@@ -7,3 +7,6 @@
 ``` python
 print("This is the story of the ottoman empire")
 ```
+- [x] Learn markdown
+- [ ] Learn Docker
+- [x] AWS Certified
